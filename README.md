@@ -15,4 +15,7 @@ The functionality is very easy - there are simple SQLite database with one colum
 - pretty color set especially for reading mode
 - more than 300 000 words in the app
 
+App in Google Play:
+<br>https://play.google.com/store/apps/details?id=com.pixhunter.setofwords_the_lastes
+
 ![5-Recovered copy](https://user-images.githubusercontent.com/88940110/179374376-e8645117-e43a-47d8-b676-a9991e8c160b.png)
