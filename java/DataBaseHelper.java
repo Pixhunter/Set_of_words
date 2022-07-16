@@ -1,7 +1,7 @@
-package com.pixhunter.setofwords_the_lastes;
+package com;
 
-import static com.pixhunter.VariablesConfig.DB_NAME;
-import static com.pixhunter.setofwords_the_lastes.BuildConfig.VERSION_CODE;
+import static com.VariablesConfig.DB_NAME;
+import static com.BuildConfig.VERSION_CODE;
 
 import android.content.Context;
 import android.database.sqlite.SQLiteDatabase;
