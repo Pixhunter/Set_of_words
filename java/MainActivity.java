@@ -1,10 +1,10 @@
-package com.pixhunter.setofwords_the_lastes;
+package com;
 
-import static com.pixhunter.VariablesConfig.ALL_COUNT_WORDS;
-import static com.pixhunter.VariablesConfig.COLUMN_WIDTH;
-import static com.pixhunter.VariablesConfig.DB_NAME;
-import static com.pixhunter.VariablesConfig.DB_PATH;
-import static com.pixhunter.VariablesConfig.SQL_QUERY_LIKE;
+import static com.VariablesConfig.ALL_COUNT_WORDS;
+import static com.VariablesConfig.COLUMN_WIDTH;
+import static com.VariablesConfig.DB_NAME;
+import static com.VariablesConfig.DB_PATH;
+import static com.VariablesConfig.SQL_QUERY_LIKE;
 
 import androidx.appcompat.app.AppCompatActivity;
 
