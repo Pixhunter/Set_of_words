@@ -1,4 +1,4 @@
-package com.pixhunter;
+package com;
 
 public class VariablesConfig {
     // Params for SQLite database
